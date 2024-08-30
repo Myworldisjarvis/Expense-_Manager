@@ -547,7 +547,7 @@ dateofspending.addPropertyChangeListener("date", event -> {
             }
         });
     }
-
+//lksjflfl
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField amountofspending;
     private com.toedter.calendar.JDateChooser dateofspending;
